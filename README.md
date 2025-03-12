@@ -4,11 +4,11 @@
 
 ###Información general:
 
--Lugar de residencia: santa maria
+- Lugar de residencia: santa maria
 
 - Número: 3104805635
 
--Correo: milenadia2477@gmail.com
+- Correo: milenadia2477@gmail.com
 
 Popular repositories
 tuto-vscode
